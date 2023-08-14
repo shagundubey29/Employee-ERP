@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "contact": "(123) 456-7890",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "job_title": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "contact": "(234) 567-8901",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "job_title": "Product Manager"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bobjohnson@example.com",
+    "contact": "(345) 678-9012",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+    "job_title": "Marketing Manager"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Lee",
+    "email": "sarahlee@example.com",
+    "contact": "(456) 789-0123",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg",
+    "job_title": "UX Designer"
+  },
+  {
+    "id": 5,
+    "name": "Mike Williams",
+    "email": "mikewilliams@example.com",
+    "contact": "(567) 890-1234",
+    "photo": "https://randomuser.me/api/portraits/men/5.jpg",
+    "job_title": "Full Stack Developer"
+  },
+  {
+    "id": 6,
+    "name": "Emily Chen",
+    "email": "emilychen@example.com",
+    "contact": "(678) 901-2345",
+    "photo": "https://randomuser.me/api/portraits/women/6.jpg",
+    "job_title": "Frontend Developer"
+  },
+  {
+    "id": 7,
+    "name": "David Kim",
+    "email": "davidkim@example.com",
+    "contact": "(789) 012-3456",
+    "photo": "https://randomuser.me/api/portraits/men/7.jpg",
+    "job_title": "Backend Developer"
+  },
+  {
+    "id": 8,
+    "name": "Jessica Brown",
+    "email": "jessicabrown@example.com",
+    "contact": "(890) 123-4567",
+    "photo": "https://randomuser.me/api/portraits/women/8.jpg",
+    "job_title": "Project Manager"
+  },
+  {
+    "id": 9,
+    "name": "Alex Lee",
+    "email": "alexlee@example.com",
+    "contact": "(901) 234-5678",
+    "photo": "https://randomuser.me/api/portraits/men/9.jpg",
+    "job_title": "Software Engineer"
+  },
+  {
+    "id": 10,
+    "name": "Rachel Park",
+    "email": "rachelpark@example.com",
+    "contact": "(012) 345-6789",
+    "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+    "job_title": "UX Designer"
+  },
+  {
+    "id": 11,
+    "name": "Alicia Rodriguez",
+    "email": "aliciarodriguez@example.com",
+    "contact": "(123) 456-7890",
+    "photo": "https://randomuser.me/api/portraits/women/11.jpg",
+    "job_title": "Graphic Designer"
+  },
+  {
+    "id": 12,
+    "name": "George Thompson",
+    "email": "georgethompson@example.com",
+    "contact": "(234) 567-8901",
+    "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+    "job_title": "Marketing Manager"
+  },
+  {
+    "id": 13,
+    "name": "Maria Hernandez",
+    "email": "mariahernandez@example.com",
+    "contact": "(345) 678-9012",
+    "photo": "https://randomuser.me/api/portraits/women/13.jpg",
+    "job_title": "Web Developer"
+  },
+  {
+    "id": 14,
+    "name": "Robert Nguyen",
+    "email": "robertnguyen@example.com",
+    "contact": "(456) 789-0123",
+    "photo": "https://randomuser.me/api/portraits/men/14.jpg",
+    "job_title": "Data Analyst"
+  },
+  {
+    "id": 15,
+    "name": "Jennifer Smith",
+    "email": "jennifersmith@example.com",
+    "contact": "(567) 890-1234",
+    "photo": "https://randomuser.me/api/portraits/women/15.jpg",
+    "job_title": "Project Manager"
+  },
+  {
+    "id": 16,
+    "name": "David Rodriguez",
+    "email": "davidrodriguez@example.com",
+    "contact": "(678) 901-2345",
+    "photo": "https://randomuser.me/api/portraits/men/16.jpg",
+    "job_title": "Software Engineer"
+  },
+  {
+    "id": 17,
+    "name": "Melissa Garcia",
+    "email": "melissagarcia@example.com",
+    "contact": "(789) 012-3456",
+    "photo": "https://randomuser.me/api/portraits/women/17.jpg",
+    "job_title": "UI Designer"
+  },
+  {
+    "id": 18,
+    "name": "James Wilson",
+    "email": "jameswilson@example.com",
+    "contact": "(890) 123-4567",
+    "photo": "https://randomuser.me/api/portraits/men/18.jpg",
+    "job_title": "Full Stack Developer"
+  },
+  {
+    "id": 19,
+    "name": "Sarah Kim",
+    "email": "sarahkim@example.com",
+    "contact": "(901) 234-5678",
+    "photo": "https://randomuser.me/api/portraits/women/19.jpg",
+    "job_title": "Software Engineer"
+  },
+  {
+    "id": 20,
+    "name": "Andrew Thompson",
+    "email": "andrewthompson@example.com",
+    "contact": "(012) 345-6789",
+    "photo": "https://randomuser.me/api/portraits/men/20.jpg",
+    "job_title": "Backend Developer"
+  }
+]
